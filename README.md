@@ -21,8 +21,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/results-summary-component-UhgM5f38XW)
+- Live Site URL: [live site URL here](https://et-coder.github.io/results-summary-component/)
 
 ## My process
 
